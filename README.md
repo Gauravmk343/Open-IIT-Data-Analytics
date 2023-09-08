@@ -1,4 +1,4 @@
-# Open-IIT-Data-Analytics-2022
+# Open-IIT-Data-Analytics
 <html>
   <head>
   </head>
